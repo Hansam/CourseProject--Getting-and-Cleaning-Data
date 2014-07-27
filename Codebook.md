@@ -7,12 +7,12 @@
 
 ###Column 2 - Activity_Names##
 #####Character. Six different Activities performed by the volunteers.###
-#####STANDING###
-#####SITTING###
-#####LAYING###
-#####WALKING###
-#####WALKING_DOWNSTAIRS###
-#####WALKING_UPSTAIRS###
+######STANDING
+######SITTING
+######LAYING
+######WALKING
+######WALKING_DOWNSTAIRS
+######WALKING_UPSTAIRS
 
 ###Column 3 - Subject##
 #####Integer. Each number 1:30 corresponds to a volunteer/ subject###
@@ -23,7 +23,7 @@
 #####t = time domain signals, f= frequency domain signals,
 #####Acc = Accelerometer, Gyro = Gyroscope, X,Y,Z = X, Y, Z direction, 
 #####average_mean = the average of the means for each variable for each activity and each subject, average_std = the average of the std for each variable for each activity and each subject. 
-#####66 LEVELS:### 
+#####66 LEVELS:
 ######tBodyAcc_average_mean_X       
 ######tBodyAcc_average_mean_Y  
 ######tBodyAcc_average_mean_Z           
